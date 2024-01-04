@@ -14,6 +14,9 @@ New file »README« (now »README.md« - this is the file you are currently read
 
 Additional file »mod.conf« inserted.
 
+--------------------------------------------------------------------
+
+Original by Casimir – additions from mmmsued
 
 licence:
 code - GPLv3 or later
