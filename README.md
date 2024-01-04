@@ -20,5 +20,7 @@ Original by Casimir – additions from mmmsued
 
 licence:
 code - GPLv3 or later
+
 pictures - see still.txt and animated.txt
+
 textures - CC BY-SA
