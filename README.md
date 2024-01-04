@@ -12,7 +12,7 @@ You can store your own images in the folder »textures«. The file format must b
 
 New file »README« (now »README.md« - this is the file you are currently reading ...).
 
-Additional file »mod.conf« inserted.
+Additional file »mod.conf« and »screenshot.png« inserted.
 
 --------------------------------------------------------------------
 
