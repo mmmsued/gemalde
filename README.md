@@ -4,7 +4,7 @@ This is a fork of the mod »[gemalde](https://github.com/CasimirKaPazi/gemalde)�
 
 This mod adds paintings and animations to Minetest. Search in minetest inventory for »gemalde« and place the node. Then scroll through the images with right mouse button.
 
-You can store your own images in the folder »textures«. The file format must be ».png« and the file names follow the pattern »painted_ContinuousNumber«.
+You can store your own images in the folder »textures«. The file format must be ».png« and the file names follow the pattern »gemalde_ContinuousNumber«.
 
 <img src="screenshot.png">
 
